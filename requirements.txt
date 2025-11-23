@@ -1,0 +1,6 @@
+streamlit
+google-cloud-aiplatform[preview]
+beautifulsoup4
+requests
+python-docx
+weasyprint
